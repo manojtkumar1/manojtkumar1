@@ -1,0 +1,2 @@
+hello!
+This is a  sample program regarding Git hub 
